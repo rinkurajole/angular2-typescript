@@ -1,0 +1,10 @@
+# Ignore all temporary files
+
+*~
+~*
+#*
+*#
+
+# Don't push node_modules
+
+./node_modules
